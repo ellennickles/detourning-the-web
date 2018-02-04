@@ -1,2 +1,2 @@
-# detourning-the-web
+# Detourning the Web
 ITP Spring 2018
