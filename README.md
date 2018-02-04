@@ -1,5 +1,5 @@
 # Detourning the Web
-ITP Spring 2018
+[ITP Spring 2018](https://github.com/antiboredom/detourning-the-web-2018)
 
 ### Assignments
 
