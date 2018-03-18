@@ -10,3 +10,4 @@
   * [why is my...](https://github.com/ellennickles/detourning-the-web/blob/master/Project%202%20-%20The%20List/whyismy_020218.txt)
   * [the future is...](https://github.com/ellennickles/detourning-the-web/blob/master/Project%202%20-%20The%20List/thefutureis_020218.txt)
   * [sometimes i...](https://github.com/ellennickles/detourning-the-web/blob/master/Project%202%20-%20The%20List/sometimesi_020318.txt)
+* [Project 2 - The List (Part 2)](https://ellennickles.com/itpblog/2018/2/11/week-3-the-list-part-2)
