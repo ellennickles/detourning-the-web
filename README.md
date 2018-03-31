@@ -11,4 +11,4 @@
   * [the future is...](https://github.com/ellennickles/detourning-the-web/blob/master/Project%202%20-%20The%20List/thefutureis_020218.txt)
   * [sometimes i...](https://github.com/ellennickles/detourning-the-web/blob/master/Project%202%20-%20The%20List/sometimesi_020318.txt)
 * [Project 2 - The List (Part 2)](https://ellennickles.com/itpblog/2018/2/11/week-3-the-list-part-2)
-* [Project 3 - Top Rep$]
+* [Project 3 - Top Rep$](https://ellennickles.com/itpblog/2018/3/18/week-7-top-reps)
