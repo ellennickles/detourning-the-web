@@ -20,7 +20,7 @@ def download_file(url, local_filename=None):
     return local_filename
 
 def get_images(num):
-    url = 'https://duckduckgo.com/i.js?q=vintage%20urinal&o=json&p=-1&s=' + str(num) + '&u=yahoo&f=,,,&l=us-en'
+    url = 'https://duckduckgo.com/i.js?q=vintage%20urinals&o=json&p=-1&s=' + str(num) + '&u=yahoo&f=,,,&l=us-en'
 
     response = requests.get(url).json()
 
