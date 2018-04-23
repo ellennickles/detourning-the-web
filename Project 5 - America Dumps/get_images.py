@@ -1,5 +1,6 @@
-# Data sourced from Google Maps and the Landfill Methane Outreach Program, a voluntary #EPA program (see https://www.epa.gov/lmop/landfill-technical-data from Feb 2018)
 # adapted from: https://github.com/joshbegley/prisonmap/blob/master/processing-sketch.txt
+# data sourced from Google Maps and the Landfill Methane Outreach Program, a voluntary #EPA program
+# see https://www.epa.gov/lmop/landfill-technical-data from Feb 2018
 import requests
 import shutil
 import json
