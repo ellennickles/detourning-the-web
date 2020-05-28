@@ -4,7 +4,7 @@
 ### Assignments
 
 * Project 1 - Altered Websites
-* [Project 2 - The List (Part 1)]
+* Project 2 - The List (Part 1)
 * [Project 2 - The List (Part 2)](https://ellennickles.site/projects/the-answers)
 * [Project 3 - Top Rep$](https://github.com/ellennickles/top-reps)
 * [Project 4 - Vintage Fountains](https://twitter.com/iamrmutt)
